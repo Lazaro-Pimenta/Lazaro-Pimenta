@@ -1,16 +1,24 @@
-## Hi there 👋
+## Welcome! Bem Vindo! 😁
 
-<!--
-**Lazaro-Pimenta/Lazaro-Pimenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div>
+   <a href="https://github.com/Lazaro">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lazaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazaro&layout=compact&langs_count=6&theme=dark"/>
+</div>
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+<br>
+ 
+### Contact 💬     Contato 💬
+ 
+<div> 
+  <a href = "Lazaro502@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <p align="center">
+  <img src="https://th.bing.com/th/id/OIG1.WmGaNBx0ubbO8NAKL6Rx?pid=ImgGn" width="300" height="300">
+</p>
+</div>  
